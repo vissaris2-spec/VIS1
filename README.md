@@ -1,1 +1,1 @@
-# VIS15
+# Example of README
